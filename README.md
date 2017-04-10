@@ -1,2 +1,2 @@
 # DBA-SQL-Server
-Dump location for all SQL bits i find and create
+Dump location for all SQL bits I find or create
